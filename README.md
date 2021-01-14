@@ -12,7 +12,7 @@ multistep forecast by using multivariate times series in order to predict the ex
 the Australian dollar while using the most tradeable exports of Australia. To do so, the Vector
 Auto Regression model, the Support Vector Machine model and the Recurrent Neural
 Networks with Long Short-Term Memory model have been used. Also, monthly historical data
-for five macroeconomic variables have been used for the period between August 1995 and
+for five macroeconomic variables (Gold, Iron ore, Natural gas, Crude oil (brent), Coal) have been used for the period between August 1995 and
 January 2020 to predict the Australian Foreign Exchange Rate.
 
 
